@@ -2,6 +2,8 @@
 
 An interactive real-time fireworks choreography and sequencing tool built with Three.js. Design, preview, and export professional fireworks shows in your browser.
 
+**[Try it live!](https://gmiv.github.io/fireworks/)**
+
 ![Fireworks Display Builder Screenshot](screenshot.png)
 
 ## ✨ Features
@@ -17,7 +19,7 @@ An interactive real-time fireworks choreography and sequencing tool built with T
 
 ## 🚀 Quick Start
 
-1. Download `fireworks-display-builder.html`
+1. Download `index.html`
 2. Open in a modern web browser (Chrome, Firefox, Safari, Edge)
 3. Click anywhere on the canvas to launch fireworks
 4. Explore the UI controls to build choreographed shows
